@@ -1,1 +1,1 @@
-# project-1.2-bolean-functions-and-gate-logic
+# nand2tetris-Part1
